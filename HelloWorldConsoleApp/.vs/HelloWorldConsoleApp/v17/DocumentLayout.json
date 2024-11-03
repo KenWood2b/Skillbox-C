@@ -1,0 +1,45 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\C#\\HelloWorldConsoleApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F91EE03A-AB87-4D7E-8BD7-1EE39B12FBDA}|HelloWorldConsoleApp\\HelloWorldConsoleApp.csproj|d:\\c#\\helloworldconsoleapp\\helloworldconsoleapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F91EE03A-AB87-4D7E-8BD7-1EE39B12FBDA}|HelloWorldConsoleApp\\HelloWorldConsoleApp.csproj|solutionrelative:helloworldconsoleapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{873151d0-cf2e-48cc-b4bf-ad0394f6a3c3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{93c5e7ad-af06-49e6-a756-b8f3eaca790d}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\C#\\HelloWorldConsoleApp\\HelloWorldConsoleApp\\Program.cs",
+              "RelativeDocumentMoniker": "HelloWorldConsoleApp\\Program.cs",
+              "ToolTip": "D:\\C#\\HelloWorldConsoleApp\\HelloWorldConsoleApp\\Program.cs",
+              "RelativeToolTip": "HelloWorldConsoleApp\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-03T11:23:26.746Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

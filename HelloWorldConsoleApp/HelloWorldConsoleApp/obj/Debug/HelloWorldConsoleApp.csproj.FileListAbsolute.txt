@@ -1,0 +1,7 @@
+D:\C#\HelloWorldConsoleApp\HelloWorldConsoleApp\bin\Debug\HelloWorldConsoleApp.exe.config
+D:\C#\HelloWorldConsoleApp\HelloWorldConsoleApp\bin\Debug\HelloWorldConsoleApp.exe
+D:\C#\HelloWorldConsoleApp\HelloWorldConsoleApp\bin\Debug\HelloWorldConsoleApp.pdb
+D:\C#\HelloWorldConsoleApp\HelloWorldConsoleApp\obj\Debug\HelloWorldConsoleApp.csproj.AssemblyReference.cache
+D:\C#\HelloWorldConsoleApp\HelloWorldConsoleApp\obj\Debug\HelloWorldConsoleApp.csproj.CoreCompileInputs.cache
+D:\C#\HelloWorldConsoleApp\HelloWorldConsoleApp\obj\Debug\HelloWorldConsoleApp.exe
+D:\C#\HelloWorldConsoleApp\HelloWorldConsoleApp\obj\Debug\HelloWorldConsoleApp.pdb
